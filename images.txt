@@ -1,2 +1,3 @@
-nginx:latest
+docker.io/buildpack-deps:jammy
+docker.io/nvidia/opengl:1.2-glvnd-devel-ubuntu22.04
 uifd/ui-for-docker:latest
